@@ -1,0 +1,21 @@
+.idea
+# Node.js
+/frontend/node_modules/
+# Python
+__pycache__/
+*.pyc
+# Docker
+*.env
+# VS Code
+.vscode/
+# General
+.DS_Store
+*.log
+frontend/package-lock.json
+.idea/assignment_fifth.iml
+.idea/easycode.ignore
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
